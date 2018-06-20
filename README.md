@@ -17,7 +17,7 @@ Optimizers implemented include:
 
 Equations and descriptions of optimizers is also included in the notebook. 
 
-Based on the [paper](https://arxiv.org/pdf/1609.04747.pdf)/ [blog post](http://ruder.io/optimizing-gradient-descent/) by [Sebastian Ruder](http://ruder.io/): https://arxiv.org/pdf/1609.04747.pdf 
+Based on the [paper](https://arxiv.org/pdf/1609.04747.pdf)/ [blog post](http://ruder.io/optimizing-gradient-descent/) by [Sebastian Ruder](http://ruder.io/).
 
 ### License
 
